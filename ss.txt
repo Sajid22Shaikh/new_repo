@@ -1,0 +1,12 @@
+ mkdir Msajid
+   65  cd mkdir
+   66  cd Msajid
+   67  git init
+   68  touch new.txt
+   69  notepad new.txt
+   70  git add .
+   71  git status
+   72  git commit -m "First commit"
+    git remote add origin https://github.com/Sajid22Shaikh/new_repo.git
+   75  git push -u origin master
+git pull https://github.com/Sajid22Shaikh/new_repo.git
